@@ -1,0 +1,171 @@
+\1. Define the following with examples from the dataset
+🔹 Types of Data
+1. Numerical Data (Quantitative)
+Data that can be measured and expressed in numbers.
+Arithmetic operations can be performed.
+
+Examples from dataset:
+
+Age_of_Household_Head (e.g., 45, 60)
+Household_Income (e.g., 25000, 80000)
+Family_Size (e.g., 3, 6)
+2. Categorical Data (Qualitative)
+Data that represents categories or labels.
+Cannot perform mathematical operations.
+
+Examples from dataset:
+
+Education_Level (Primary, Graduate)
+Owns_House (Yes/No)
+Urban_Rural (Urban/Rural)
+🔹 Types of Statistics
+1. Descriptive Statistics
+Used to summarize and describe data.
+
+Examples:
+
+Mean income
+Median age
+Frequency of Urban vs Rural households
+2. Inferential Statistics
+Used to make predictions or generalizations about a population based on sample data.
+
+Examples:
+
+Predict average income of all households
+Hypothesis testing
+🔹 What is Descriptive Statistics?
+
+Descriptive statistics refers to methods used to:
+
+Organize
+Summarize
+Present data in a meaningful way
+
+Tools include:
+
+Mean, Median, Mode
+Charts (Histogram, Bar Chart)
+Standard deviation
+2. Difference Between Concepts
+🔹 Mean, Median, Mode
+Measure	Definition	Example
+Mean	Average of all values	Total income ÷ number of households
+Median	Middle value when sorted	Middle age value
+Mode	Most frequent value	Most common family size
+🔹 Range, Variance, Standard Deviation
+Measure	Definition
+Range	Difference between max and min values
+Variance	Measure of spread (squared deviation from mean)
+Standard Deviation	Square root of variance (actual spread)
+3. Important Statistical Terms
+🔹 1. Gaussian Distribution (Normal Distribution)
+
+A symmetric, bell-shaped distribution where:
+
+Mean = Median = Mode
+𝑓
+(
+𝑥
+)
+=
+1
+𝜎
+2
+𝜋
+𝑒
+−
+(
+𝑥
+−
+𝜇
+)
+2
+2
+𝜎
+2
+f(x)=
+σ
+2π
+	​
+
+1
+	​
+
+e
+−
+2σ
+2
+(x−μ)
+2
+	​
+
+𝑠
+𝑖
+𝑔
+𝑚
+𝑎
+sigma
+𝑚
+𝑢
+mu
+-10
+-8
+-6
+-4
+-2
+2
+4
+6
+8
+10
+-0.6
+-0.4
+-0.2
+0.2
+0.4
+0.6
+🔹 2. Log Normal Distribution
+Data is positively skewed.
+Log of data follows normal distribution.
+Used in income distribution.
+🔹 3. 3-Sigma Rule (Empirical Rule)
+
+In normal distribution:
+
+68% data within 1σ
+95% within 2σ
+99.7% within 3σ
+🔹 4. Percentiles
+Divide data into 100 equal parts.
+Example: 90th percentile = value below which 90% data lies.
+🔹 5. Quartiles
+
+Divide data into 4 parts:
+
+Q1 (25%)
+Q2 (Median, 50%)
+Q3 (75%)
+🔹 6. Five Number Summary
+
+Includes:
+
+Minimum
+Q1
+Median
+Q3
+Maximum
+🔹 7. Skewness
+Measures asymmetry of data.
+
+Types:
+
+Positive skew → tail on right
+Negative skew → tail on left
+🔹 8. Kurtosis
+Measures "peakedness" of distribution.
+
+Types:
+
+High kurtosis → sharp peak
+Low kurtosis → flat distribution
